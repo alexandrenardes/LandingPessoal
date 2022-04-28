@@ -47,7 +47,7 @@ nav{
     margin-left: 32px;
 }
 
-.section-home{
+.div-home{
     background-color: rgb(240, 239, 239);
     height: 100vh;
 }
@@ -67,6 +67,41 @@ nav{
     left: 10%;
     color: rgb(110, 110, 110);
 }
+
+.home{
+    background-color: rgb(238, 238, 238);
+    height: 100vh;
+}
+
+.apresentacao{
+    width: 105vh;
+    height: 100vh;
+    display: inline-block;
+    text-align: center;
+    background-color: green;
+}
+
+.perfil{
+    width: 105vh;
+    height: 100vh;
+    display: inline-block;
+    float: right;
+}
+
+.nome{
+    margin-top: 50vh;
+    left: 3vh;
+}
+
+.resumo{
+    
+}
+
+
+
+
+
+
 
 
 
