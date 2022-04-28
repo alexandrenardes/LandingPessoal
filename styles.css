@@ -74,33 +74,33 @@ nav{
 }
 
 .apresentacao{
-    width: 105vh;
+    width: 102vh;
     height: 100vh;
     display: inline-block;
     text-align: center;
-    background-color: green;
 }
 
 .perfil{
-    width: 105vh;
+    width: 102vh;
     height: 100vh;
     display: inline-block;
     float: right;
 }
 
-.nome{
-    margin-top: 50vh;
-    left: 3vh;
-}
-
 .resumo{
-    
+    font-size: 2vh;
+    margin-top: 50vh;
+    justify-content: center;
+    text-align: center;
 }
 
-
-
-
-
+.nome{
+    font-size: 5vh;
+    margin-top: 40vh;
+    padding: 0px;
+    margin-bottom: -45%;
+    margin-left: -40%;
+}
 
 
 
